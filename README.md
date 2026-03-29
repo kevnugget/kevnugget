@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there, I'm Kevin 👋
 
-<!--
-**kevnugget/kevnugget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer
 
-Here are some ideas to get you started:
+My name is Kevin and I currently attend Temple University, where I'm studying Computer Science with a Data Science minor! I'm a passionate developer who loves building things across multiple platforms, from low-level systems programming to modern AI and LLM development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</p>
+
+---
+
+## 🧩 What I Work With
+
+| Domain | Technologies |
+|---|---|
+| **AI / ML Development** | Python |
+| **Mobile Development** | Kotlin |
+| **Web Development** | HTML, CSS, JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevnugget&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevnugget&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌱 Currently Working On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI_Resume_Reviewer-Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🧠_LLM_Fine--Tuning-Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
+  <br/>
+  <img src="https://img.shields.io/badge/🧪_AI_/_ML-Deep_Learning_&_Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+</p>
+
+---
+
+## 📫 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinngvyen)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevnugget&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
