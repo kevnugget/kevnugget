@@ -28,34 +28,8 @@ My name is Kevin and I currently attend Temple University, where I'm studying Co
 
 ---
 
-## 🧩 What I Work With
-
-| Domain | Technologies |
-|---|---|
-| **AI / ML Development** | Python |
-| **Mobile Development** | Kotlin |
-| **Web Development** | HTML, CSS, JavaScript, React |
-
----
-
-## 🌱 Currently Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Resume_Reviewer-Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🧠_LLM_Fine--Tuning-Prompt_Engineering-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
-  <br/>
-  <img src="https://img.shields.io/badge/🧪_AI_/_ML-Deep_Learning_&_Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-</p>
-
----
-
 ## 📫 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinngvyen)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevnugget&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
