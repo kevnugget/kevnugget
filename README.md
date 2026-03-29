@@ -2,7 +2,7 @@
 
 ### 💻 Software Developer
 
-I'm a passionate developer who loves building things across multiple platforms, from low-level systems programming to modern AI and LLM development.
+My name is Kevin and I currently attend Temple University, where I'm studying Computer Science and minoring in Data Science! I'm a passionate developer who loves building things across multiple platforms, from low-level systems programming to modern AI and LLM development.
 
 ---
 
