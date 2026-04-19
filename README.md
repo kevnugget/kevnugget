@@ -1,5 +1,5 @@
-# Hey, I'm Kevin 👋
-I'm a Computer Science student at Temple University with a minor in Data Science!
+# About Me
+Hi! My name is Kevin and I'm a Computer Science student at Temple University with a minor in Data Science.
 
 ---
 
